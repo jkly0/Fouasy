@@ -30,7 +30,7 @@ cd Fouasy
 ```
 Run the python file
 ```bash
-git clone https://github.com/jkly0/Fouasy
+python3 fouasy.py
 ```
 
 ## Usage
